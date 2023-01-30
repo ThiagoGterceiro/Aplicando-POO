@@ -1,0 +1,4 @@
+1.Faça uma calculadora que realize as 4 operações.
+2.Faça um algoritmo para login que apresente se está autorizado ou não a partir das informações inseridas (controle de acesso).
+3.Faça um algoritmo para calcular desconto em um produto da atlética sendo 3 categorias de desconto: sócio gold (10%), sócio platinum (20%) e sócio black(30%).
+4.Faça um algoritmo para converter moeda (ao menos 3 moedas).
